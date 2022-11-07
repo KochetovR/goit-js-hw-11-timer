@@ -48,12 +48,12 @@ class CountdownTimer {
 
 const timer = new CountdownTimer({
     selector: '#timer-1',
-    targetDate: new Date('Dec 31, 2021'),
+    targetDate: new Date('Dec 31, 2022'),
 });
 
 const summer = new CountdownTimer({
     selector: '#summer',
-    targetDate: new Date('Aug 31, 2021'),
+    targetDate: new Date('May 31, 2023'),
 });
 
 
